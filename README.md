@@ -26,7 +26,7 @@
 > D3.js 기반의 질문-답변 시각화 앱  
 > 🌱 Next.js + D3 + Neo4j + Spring Boot
 
-### 🔗 [디모임](https://github.com/your-uniclub-repo](https://github.com/9oormthonUNIV-DKU-Cumulus)
+### 🔗 [디모임](https://github.com/9oormthonUNIV-DKU-Cumulus)
 > 교내 동아리 홍보 및 매칭 앱  
 > 🎯 React Native, AWS, EC2 배포
 
