@@ -38,6 +38,12 @@
 
 ---
 
+## 🏆 수상 내역
+
+- 2025 대학/기업협력형 SW아카데미 TABA 9기 프로젝트 **우수상**
+
+---
+
 ## 📊 깃허브
 
 ![SangHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangHyun01&show_icons=true&theme=default)
