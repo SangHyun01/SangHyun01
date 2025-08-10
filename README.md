@@ -22,7 +22,7 @@
 
 ## 💡 프로젝트
 
-### 🔗 [ChatGraph](https://github.com/dku25-capstone/chatGraph-FE)
+### 🔗 [ChatGraph]([https://github.com/dku25-capstone/chatGraph-FE](https://github.com/dku25-capstone))
 > D3.js 기반의 질문-답변 시각화 앱  
 > 🌱 Next.js + D3 + Neo4j + Spring Boot
 
