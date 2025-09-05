@@ -24,7 +24,7 @@
 
 ### 🔗 [ChatGraph](https://github.com/dku25-capstone)
 > D3.js 기반의 질문-답변 시각화 앱  
-> 🌱 Next.js + D3 + Neo4j + Spring Boot
+> 🌱 Next.js + D3 + Neo4j + Spring Boot + ChatGPT API
 
 ### 🔗 [디모임](https://github.com/9oormthonUNIV-DKU-Cumulus)
 > 교내 동아리 홍보 및 매칭 앱  
