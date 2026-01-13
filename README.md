@@ -21,7 +21,7 @@
 ---
 
 ## 💡 프로젝트
-
+## 팀
 ### 🔗 [ChatGraph](https://github.com/dku25-capstone)
 > D3.js 기반의 질문-답변 시각화 앱  
 > 🌱 Next.js + D3 + Neo4j + Spring Boot + ChatGPT API
@@ -34,6 +34,10 @@
 > 교내 동아리 홍보 및 매칭 앱  
 > 🎯 React Native, AWS, EC2 배포
 
+## 개인
+### 🔗 [PagePick](https://github.com/SangHyun01/PagePick)
+> OCR 기반 독서 기록 및 문장 수집 앱 <br/>
+> 🛠️ React Native + Supabase
 ---
 
 ## 🧩 활동
