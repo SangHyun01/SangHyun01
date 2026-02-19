@@ -37,7 +37,7 @@
 ## 개인
 ### 🔗 [PagePick](https://github.com/SangHyun01/PagePick)
 > OCR 기반 독서 기록 및 문장 수집 앱 <br/>
-> 🛠️ React Native + Supabase
+> 🛠️ React Native + Supabase + openAI API
 ---
 
 ## 🧩 활동
