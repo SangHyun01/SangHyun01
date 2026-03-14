@@ -42,7 +42,8 @@
 
 ## 🧩 활동
 
-- 🌍 개발 블로그: https://velog.io/@simon10/posts
+- 🔗 [포트폴리오](https://mountain-acorn-4c4.notion.site/1f10ea707030806cbb2ddaff9bcdd2ff?source=copy_link)
+- 🌍 [블로그](https://velog.io/@simon10/posts)
 
 ---
 
